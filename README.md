@@ -2,15 +2,19 @@
 
 ## Table of contents
 
--   [Challenge-name] FeedBack App
--   [Built-with] Built with Next.JS, TypeScript and TailwindCSS
--   [Author] Farhang Alizadeh
+-   [Overview](#overview)
+    -   [The challenge](#the-challenge)
+-   [My process](#my-process)
+    -   [Screenshot](#screenshot)
+    -   [Built with](#built-with)
+    -   [Demo](#demo)
+-   [Author](#author)
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+Users can be able to:
 
 -   View the optimal layout for the app depending on their device's screen size
 -   See hover states for all interactive elements on the page
@@ -26,7 +30,7 @@ Users should be able to:
 
 ![](./public/screenshot.png)
 
-### Links
+## My process
 
 ### Built with
 
@@ -39,6 +43,10 @@ Users should be able to:
 -   [Redux](https://redux.js.org/) - React library
 -   [Next.js](https://nextjs.org/) - React meta-framework
 -   [TailwindCSS](https://styled-components.com/) - For styles
+
+### Demo
+
+- Live Site URL:(https://feedback-web-app.vercel.app/)
 
 ## Author
 
